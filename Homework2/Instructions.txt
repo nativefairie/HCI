@@ -1,0 +1,11 @@
+Install pygame to make it work:
+
+$ pip install pygame
+
+And then run:
+
+$ python Sudoku.py
+
+
+It uses a simple brute force algorithm, so some grids can take a long time to solve.
+If this happens just press Ctrl + C and start again.
